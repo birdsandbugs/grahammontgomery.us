@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graham Montgomery</title>
+    <link>https://grahammontgomery.us/</link>
+    <description>Recent content on Graham Montgomery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Jan 2022 18:50:25 -0700</lastBuildDate><atom:link href="https://grahammontgomery.us/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The BioChallenge Game</title>
+      <link>https://grahammontgomery.us/writing/biochallenge/</link>
+      <pubDate>Mon, 10 Jan 2022 18:50:25 -0700</pubDate>
+      
+      <guid>https://grahammontgomery.us/writing/biochallenge/</guid>
+      <description>In the spirit of birding, I&amp;rsquo;ve come up with a game that celebrates the incredible biodiversity around us. It&amp;rsquo;s pretty simple: tally up all the types of life you&amp;rsquo;ve seen. You get one point for each unique species, two points for each genus, 3 points for a family, 4 points for an order, 5 points for a class, and 10 points for a phylum. Add them all up (made easier through iNaturalist, Bugguide, and eBird) and see what you get!</description>
+    </item>
+    
+    <item>
+      <title>The Mistletoebird</title>
+      <link>https://grahammontgomery.us/writing/the_mistletoebird/</link>
+      <pubDate>Fri, 03 Sep 2021 20:39:30 -0700</pubDate>
+      
+      <guid>https://grahammontgomery.us/writing/the_mistletoebird/</guid>
+      <description>How mistletoe got associated with Christmas is a bit of a mystery, but it’s probably because mistletoe is one of the few plant species that is green even in the winter. Imagine planning a winter celebration around 900 AD in northern Europe (just ignore the serfdom and disease for a moment): one of the few plants you could use for decoration would be mistletoe, since most other plants have either lost their leaves or died back in the middle of winter.</description>
+    </item>
+    
+    <item>
+      <title>Recommended ID resources</title>
+      <link>https://grahammontgomery.us/resources/</link>
+      <pubDate>Wed, 02 Jun 2021 18:28:08 -0700</pubDate>
+      
+      <guid>https://grahammontgomery.us/resources/</guid>
+      <description>My preferred comprehensive ID resources for North America north of Mexico*
+ Butterflies | A Swift Guide to Butterflies of North America by Glassberg Tiger beetles | A Field Guide to the Tiger Beetles of the United States and Canada by Pearson, et al. Dragonflies | Dragonflies and Damselflies of the East (and the western edition) by Paulson Bumblebees | Bumble Bees of North America: An Identification Guide by Williams et al.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://grahammontgomery.us/about/</link>
+      <pubDate>Tue, 01 Jun 2021 20:40:11 -0700</pubDate>
+      
+      <guid>https://grahammontgomery.us/about/</guid>
+      <description>Contact Graham Montgomery
+​Department of Ecology &amp;amp; Evolutionary Biology
+University of California, Los Angeles
+Los Angeles, CA, USA 90095
+email: montgomery.graham@gmail.com
+​ Community science: see iNaturalist, eBird, and BugGuide.
+ Personal He/him/his. In my free time, I enjoy reading, kayaking, backpacking, hanging out with my cat, and playing basketball.
+ CV (pdf) </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://grahammontgomery.us/research/</link>
+      <pubDate>Tue, 01 Jun 2021 20:39:54 -0700</pubDate>
+      
+      <guid>https://grahammontgomery.us/research/</guid>
+      <description>PhD research My PhD research is focused on understanding:
+ The extent to which the northeastern US is experiencing widespread population-level insect declines (ie. the windshield phenomenon) What factors are driving these potential declines &amp;amp; How insectivorous birds are responding.  ​These are big questions &amp;ndash; I use a variety of approaches to chip away at them, from resurveys of historical data, to evidence synthesis (like entoGEM), to community science.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://grahammontgomery.us/portfolio/</link>
+      <pubDate>Tue, 01 Jun 2021 20:39:44 -0700</pubDate>
+      
+      <guid>https://grahammontgomery.us/portfolio/</guid>
+      <description>I have many photographic interests, but mostly focus on macrophotography (especially of insects), and bird photography:
+  Adelinia grande
+      Aegithus sp
+      Agile tit tyrant
+      Ant vs termite</description>
+    </item>
+    
+    <item>
+      <title>How to paddle the Mississippi River</title>
+      <link>https://grahammontgomery.us/writing/mississippi/</link>
+      <pubDate>Tue, 02 Jun 2020 19:13:13 -0700</pubDate>
+      
+      <guid>https://grahammontgomery.us/writing/mississippi/</guid>
+      <description>Interested in paddling America’s great river from source to sea, or maybe a section of it? There are some really nice resources out there already (see below), but I will try to supplement them here. I kayaked the Mississippi solo in the fall of 2016, and it was the trip of a lifetime. It took me 62 days and over one million paddles to travel the 2100 miles of river on my route (~3500 km)!</description>
+    </item>
+    
+  </channel>
+</rss>
